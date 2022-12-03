@@ -4,7 +4,7 @@ Advent of Code - Day generator
 """
 import os
 
-DAY = '3'
+DAY = '4'
 
 PYTHON_START = '''
 #!/usr/bin/env python3
@@ -47,7 +47,7 @@ def main():
     puzzle_input = read_input()
     print(part1(puzzle_input))
     print(part2(puzzle_input))
-    
+
 
 if __name__ == '__main__':
     main()
