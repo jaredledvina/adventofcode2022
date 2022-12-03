@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Advent of Code - Day N
+Advent of Code - Day 2
 """
 import os
 
@@ -93,6 +93,7 @@ def main():
     puzzle_input = read_input()
     print(part1(puzzle_input))
     print(part2(puzzle_input))
+    
 
 if __name__ == '__main__':
     main()

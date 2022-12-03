@@ -60,6 +60,7 @@ def main():
     puzzle_input = read_input()
     print(part1(puzzle_input))
     print(part2(puzzle_input))
+    
 
 if __name__ == '__main__':
     main()
