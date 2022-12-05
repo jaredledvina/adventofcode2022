@@ -4,7 +4,7 @@ Advent of Code - Day generator
 """
 import os
 
-DAY = '5'
+DAY = '6'
 
 PYTHON_START = '''
 #!/usr/bin/env python3
